@@ -56,6 +56,12 @@ section {
   width: 200px;
 }
 
+.product-card img {
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+}
+
 form {
   display: flex;
   flex-direction: column;
